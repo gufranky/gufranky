@@ -1,4 +1,5 @@
 ## Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api?username=你的Github用户名e&show_icons=true&theme=transparent)
+这里是myrt1e gufranky,主要学习c++与python中，
+如果你有好的创意可以提出，目前正在完成自动排谷项目
+![](https://github-readme-stats.vercel.app/api?username=gufranky&show_icons=true&theme=transparent)
 

@@ -7,5 +7,5 @@ Email:g2676536169@gmail.com My website:https://myrt1e.com/
 
 ![Top Langs](https://github-readme-stats-three-woad-85.vercel.app/api/top-langs/?username=gufranky&layout=compact&theme=tokyonight)
 
-[![myrt1e's WakaTime stats](https://github-readme-stats-three-woad-85.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/02285a94-cd46-4ef0-b5d7-8e7b716311e6.svg)](https://wakatime.com/@02285a94-cd46-4ef0-b5d7-8e7b716311e6)
 

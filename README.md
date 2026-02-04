@@ -1,4 +1,5 @@
 ## Hi there 👋👋
+"再次鼓起丧失的勇气"
 I am frankygu,you can also call me myrt1e.I am a grade 2023 undergraduate from Wuhan University,learning C++/python/go,and my specialization lies in computer graphics and artificial intelligence.
 
 Some of the developed content is based on AI, mostly driven by interest. If there are any bugs, I would appreciate it if you could contact me for repairs.

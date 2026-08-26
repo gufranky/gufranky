@@ -9,7 +9,7 @@ Email:g2676536169@gmail.com My website:https://myrt1e.com/
 
 ![icons](https://skillicons.dev/icons?i=azure,blender,cloudflare,cpp,cs,github,gitlab,gmail,go,java,latex,linux,md,mysql,ocaml,py,pytorch,qt,redis,sklearn,unity,vscode,visualstudio,wordpress)
 
-![](https://github-readme-stats-three-woad-85.vercel.app/api?username=gufranky&show_icons=true&theme=transparent)
+[![Gufranky's GitHub stats](https://github-stats-extended.vercel.app/api?username=gufranky)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Langs](https://github-readme-stats-three-woad-85.vercel.app/api/top-langs/?username=gufranky&layout=compact&theme=tokyonight)
 
